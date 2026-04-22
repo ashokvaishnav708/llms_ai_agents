@@ -10,3 +10,4 @@ This repository is for Opencampus course "from LLMs to AI Agents" course.
 3. Install the required packages `pip install -r requirements.txt`.
 
 4. You have successfully setup and installed necessarry python packages.
+5. Now, create a `.env` file in the root directory. And add your API key for eg: `GEMINI_API_KEY="your_actual_api_key"`.
